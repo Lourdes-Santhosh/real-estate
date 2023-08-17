@@ -6,6 +6,7 @@ export const api = axios.create({
   baseURL: "https://real-estate-seven-navy.vercel.app/api",
 });
 
+
 export const getAllProperties = async () => {
   try {
     const response = await api.get("/residency/allresd", {
