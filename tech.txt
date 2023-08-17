@@ -1,0 +1,7 @@
+MERN
+Auth0 using jwt for Authentication
+prisma for mongodb schema
+Mantine for components
+React Query for Cache data, Queries, Invalidation
+react leaflet for map
+cloudinary management for image upload
