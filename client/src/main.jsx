@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-pmie2txcx72g1uc6.us.auth0.com"
      clientId="4nA24Dro4MutvL3zSKhG6GOkXgWu8LKv"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173/"
+      redirect_uri: "https://real-estate-green-gamma.vercel.app"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
